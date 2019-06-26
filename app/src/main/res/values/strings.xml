@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">udRecipesBakingApp</string>
+
+    <string name="txt_welcome">Welcome to Baking App!</string>
+    <string name="txt_Ingredients">Ingredients</string>
+
+    <string name="widget_recipe_key">widget_recipe_key</string>
+    <string name="added_to_widget">Recipe %s added to widget</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
